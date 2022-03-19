@@ -1,0 +1,13 @@
+BLM1012 Yapısal Programlamaya Giris 30 6
+BLM1022 Sayısal Analiz 30 3
+BLM1032 Devre Teorisi 50 5
+BLM1992 Is Saglıgı ve Guvenligi 100 2
+BLM2045 Alt_Seviye_Programlama 30 3
+BLM3110 Bilgisayar Muhendisliginde Ozel Konular 20 5
+BLM3120 Bilgiye Erisim Ve Arama Motorları 30 3
+BLM3130 Oyun Gelistirmeye Giris 25 4
+BLM3520 Mobil Programlamaya Giris 25 5
+BLM3580 Sistem Programlama 60 3
+FIZ1951 Muhendisler için Yariiletken Fizigi 70 5
+MAT1072 Matematik 200 6
+MDB1032 Ileri Ingilizce 80 3

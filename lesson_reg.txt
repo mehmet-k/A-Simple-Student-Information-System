@@ -1,0 +1,12 @@
+10001,BLM1012,22011002,date,registered
+10002,BLM1012,22011006,date,registered
+10003,BLM1012,22011011,date,unregistered
+10004,BLM1992,22011007,date,lesson_deleted
+10005,BLM1992,22011010,date,lesson_deleted
+10006,BLM3520,22011002,date,unregistered
+10007,BLM3580,22011001,date,registered
+10008,BLM4780,22011001,date,lesson_deleted
+10009,BLM4780,20000000,date,lesson_deleted
+10010,BLM4780,22011010,date,lesson_deleted
+10011,BLM4780,22011004,date,lesson_deleted
+10012,BLM4780,22011002,date,lesson_deleted
